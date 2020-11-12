@@ -13,6 +13,21 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="线性表">
+      <UniqueIdentifier>{62e7f195-9b04-41ee-80ac-9d9e7a6529c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="线性表\顺序表">
+      <UniqueIdentifier>{a810f8eb-251e-4226-89ea-f4fe1a89e984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="线性表\链式表">
+      <UniqueIdentifier>{1a9b6f2a-134d-4db8-974c-a160a183e51b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="线性表\循环链表">
+      <UniqueIdentifier>{27e1be96-8516-4a86-b409-d7e3499d8bf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="线性表\双向链表">
+      <UniqueIdentifier>{c3bd19c2-4ed8-466a-b76a-a2d2b2e52af6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
